@@ -23,6 +23,9 @@ THEN I find that the content in the text editor has been saved with IndexedDB
 WHEN I reopen the text editor after closing it
 THEN I find that the content in the text editor has been retrieved from our IndexedDB
 WHEN I click on the Install button
+
+# Heroku Link :
+https://text-editor-12345-519bab9b121c.herokuapp.com/
 THEN I download my web application as an icon on my desktop
 WHEN I load my web application
 THEN I should have a registered service worker using workbox
