@@ -88,6 +88,4 @@ You can see the deployed version of the application here:
 With this PWA text editor, you can create and save notes or code snippets with or without an internet connection. Follow this tutorial to get started, and enjoy the seamless experience of a modern web application!
 
 For any issues or questions, feel free to open an issue in the repository.
-```
 
-This tutorial-style `README.md` should help anyone interested in using your PWA text editor app understand how to set it up, run it, and use its features effectively.
